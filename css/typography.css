@@ -1,0 +1,67 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: linear-gradient(white, #00acd8);
+}
+
+.nav-title {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.button-text {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.image-caption {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.main-title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.subheader-text {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.subheader-text2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: -5%;
+}
+
+.body-text {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 5%;
+  justify-content: center;
+  text-align: justify;
+}
+
+.body-text2 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 12%;
+  justify-content: center;
+  text-align: justify;
+}
+
+.project-card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.project-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
