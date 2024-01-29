@@ -23,6 +23,12 @@ body {
   font-weight: 700;
 }
 
+.main-title2 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
 .subheader-text {
   font-size: 20px;
   font-weight: 700;
