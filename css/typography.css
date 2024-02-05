@@ -29,6 +29,14 @@ body {
   margin-top: 20px;
 }
 
+.main-title3 {
+  font-size: 52px;
+  font-weight: 700;
+  margin-bottom: -3%;
+  align-items: center;
+  text-align: center;
+}
+
 .subheader-text {
   font-size: 20px;
   font-weight: 700;
@@ -38,6 +46,7 @@ body {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: -5%;
+  margin-left: 9%;
 }
 
 .body-text {
@@ -49,7 +58,7 @@ body {
 
 .body-text2 {
   font-size: 18px;
-  margin-top: 12%;
+  margin-top: 14%;
   justify-content: center;
   text-align: justify;
 }

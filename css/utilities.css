@@ -72,9 +72,10 @@ a.icon-link:hover {
 
 a.button {
   padding: 8px 16px;
-  border: 3px solid #141414;
+  border: 3px solid #004987;
   border-radius: 50px;
-  color: black;
+  color: #004987;
+  background-color: #00ACD8;
   text-decoration: none;
   width: fit-content;
   display: inline-block;
