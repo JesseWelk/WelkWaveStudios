@@ -64,6 +64,16 @@ body {
   text-align: justify;
 }
 
+.body-text3 {
+  font-size: 18px;
+  margin-top: 8%;
+  margin-bottom: -5%;
+  justify-content: center;
+  text-align: justify;
+  margin-left: 11.5%;
+  max-width: 76%;
+}
+
 .project-card-text {
   overflow: hidden;
   text-overflow: ellipsis;
