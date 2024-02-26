@@ -31,7 +31,11 @@ body {
 }
 
 
+#study {
 
+  width: 100px;
+  text-align: center;
+}
 
 /* Portfolio Header */
 
@@ -136,14 +140,21 @@ body {
 
 #project-header {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 16px;
 }
 
 .project-header-image {
-  width: 100%;
-  height: auto;
+  width: 50%;
+  height: 50%;
 }
+
+.project-header-image-case {
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+
 
 .project-header-image2 {
   width: 100%;
