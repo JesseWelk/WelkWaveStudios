@@ -195,6 +195,29 @@ body {
   margin-right: auto;
 }
 
+.project-header-image5 {
+  width: 90%;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project-header-image6 {
+  width: 80%;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 .video {
   width: 100%;
