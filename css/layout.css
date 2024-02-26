@@ -30,6 +30,13 @@ body {
   gap: 96px;
 }
 
+#main-content2 {
+  margin: 225px 425px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  margin-top: 50px;
+}
 
 #study {
 
