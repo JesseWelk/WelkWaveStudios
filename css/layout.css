@@ -50,6 +50,7 @@ body {
   display: flex;
   gap: 20px;
   align-items: center;
+  margin-bottom: -15%;
 }
 
 #portfolio-header-image-container {
@@ -166,6 +167,17 @@ body {
   width: 50%;
   height: 50%;
   border-radius: 10px;
+}
+
+.project-header-image-case2 {
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+  transition: transform .2s;
+}
+
+.project-header-image-case2:hover {
+  transform:scale(1.5);
 }
 
 
